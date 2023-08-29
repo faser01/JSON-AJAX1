@@ -12,7 +12,7 @@
 ## Использование
 
 1. Клонировать репозиторий
-git clone https://github.com/faser01/JSON-AJAX
+git clone https://github.com/faser01/JSON-AJAX1
 
 2. Открыть `index.html` в браузере
 
